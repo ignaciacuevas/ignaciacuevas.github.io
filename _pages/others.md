@@ -9,7 +9,7 @@ author_profile: true
 
 **Biking**
 
-**Playing tennis**
+**Tennis**
 
 **Running**
 
@@ -17,9 +17,11 @@ author_profile: true
 
 **Climbing**
 
-**Playing soccer**
+**Soccer**
 
-**Playing Volleyball**
+**Volleyball**
+
+**Ski**
 
 
 ## Live Music
