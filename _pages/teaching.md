@@ -11,21 +11,21 @@ redirect_from:
 
 ## Advanced Microeconomic Analysis 
 
-Chicago Booth School of Business, MBA, Busn 33101, Chicago, Fall 2021
+University of Chicago Booth School of Business, MBA, Busn 33101, Chicago, Fall 2021
 
 Lectures by **Kevin Murphy**, 
 TA and grading ($\sim 110$ students). 
 
 ## Money and Banking
 
-Chicago Booth School of Business, MBA, Busn 33401, Chicago, Spring 2022
+University of Chicago Booth School of Business, MBA, Busn 33401, Chicago, Spring 2022
 
 Lectures by **Randall Kroszner**, 
 TA and grading ($\sim 135$ students). 
 
 ## Macroeconomics
 
-Chicago Booth School of Business, EMBA, Busn 33840, Chicago, Fall 2022
+University of Chicago Booth School of Business, EMBA, Busn 33840, Chicago, Fall 2022
 
 Lectures by **John Huizinga**, 
 TA and grading ($\sim 175$ students). 
@@ -43,21 +43,21 @@ TA and grading.
 
 ## International Economics
 
-Kenneth C Griffin Department of Economics, Undergraduate, Econ 27000, Chicago, Winter 2022
+University of Chicago Kenneth C Griffin Department of Economics, Undergraduate, Econ 27000, Chicago, Winter 2022
 
 Lectures by **Felix Tintelnot**, 
 TA and grading ($\sim 60$ students). 
 
 ## Principles of Microeconomics
 
-Kenneth C Griffin Department of Economics, Undergraduate, Econ 10000, Chicago, Spring 2022
+University of Chicago Kenneth C Griffin Department of Economics, Undergraduate, Econ 10000, Chicago, Spring 2022
 
 Lectures by **Min Sok Lee**, 
 TA and grading ($\sim 135$ students). 
 
 ## International Economics
 
-Kenneth C Griffin Department of Economics, Undergraduate, Econ 27000, Chicago, Winter 2023
+University of Chicago Kenneth C Griffin Department of Economics, Undergraduate, Econ 27000, Chicago, Winter 2023
 
 Lectures by **Felix Tintelnot**, 
 TA and grading ($\sim 50$ students). 
