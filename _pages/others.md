@@ -5,8 +5,6 @@ permalink: /others/
 author_profile: true
 ---
 
-# Some things I enjoy outside of Economics
-
 ## Sports
 
 **Biking**
