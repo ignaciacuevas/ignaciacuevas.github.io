@@ -9,7 +9,6 @@ author_profile: true
 
 ## Sports
 
-You can find me: 
 **Biking along the lake trail**
 
 **Playing tennis**
