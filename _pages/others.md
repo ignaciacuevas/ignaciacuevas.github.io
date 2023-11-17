@@ -21,7 +21,7 @@ author_profile: true
 
 **Volleyball**
 
-**Ski**
+**Skiing**
 
 
 ## Live Music
