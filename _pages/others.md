@@ -11,13 +11,21 @@ author_profile: true
 
 You can find me: 
 **Biking along the lake trail**
+
 **Playing tennis**
+
 **Running**
+
 **Hiking**
+
 **Climbing**
+
 **Playing soccer**
+
 **Playing Volleyball**
 
+
 ## Live Music
+
 
 ## Photography
