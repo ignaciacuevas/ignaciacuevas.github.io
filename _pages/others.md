@@ -9,7 +9,7 @@ author_profile: true
 
 ## Sports
 
-**Biking along the lake trail**
+**Biking**
 
 **Playing tennis**
 
