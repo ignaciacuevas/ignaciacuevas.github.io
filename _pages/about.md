@@ -10,7 +10,7 @@ redirect_from:
 
 I am Ignacia Cuevas, a current 5th year PhD candidate at the University of Chicago, Department of Economics.
 
-My research interests include Trade, Macroeconomics, and Industrial Organization.
+My research interests include International Trade, Macroeconomics, and Industrial Organization.
 
 I graduated from a Master's in Economics and a BA in Business and Economics from Pontificia Universidad Católica de Chile.
 
