@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ignacia Cuevas"
+title: "Welcome!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome!
-
-I am a current 5th year PhD candidate at the University of Chicago Department of Economics.
+I am Ignacia Cuevas, a current 5th year PhD candidate at the University of Chicago, Department of Economics.
 
 My research interests include Trade, Macroeconomics, and Industrial Organization.
 
