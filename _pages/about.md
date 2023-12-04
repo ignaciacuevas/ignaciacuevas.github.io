@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Ignacia Cuevas de Saint Pierre, a current 5th year PhD candidate at the University of Chicago, Department of Economics.
+I am Ignacia Cuevas de Saint Pierre, a 5th year PhD candidate at the University of Chicago, Department of Economics.
 
 My research interests include International Trade, Macroeconomics, and Industrial Organization.
 
