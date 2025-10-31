@@ -62,6 +62,13 @@ University of Chicago Kenneth C Griffin Department of Economics, Undergraduate, 
 Lectures by **Felix Tintelnot**, 
 TA and grading ($\sim 50$ students). 
 
+## International Economics
+
+University of Chicago Kenneth C Griffin Department of Economics, Undergraduate, Econ 27000, Chicago, Spring 2024
+
+Lectures by **Felix Tintelnot**, 
+TA and grading. 
+
 ## International Macroeconomics (x2)
 
 Pontificia Universidad Católica de Chile Department of Economics, Undergraduate, Santiago, Chile, March - December 2017
