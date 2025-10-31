@@ -7,6 +7,12 @@ author_profile: true
 
 ## Sports
 
+**2x Chicago Triathlon**
+
+**1x Pucón Half-Ironman**
+
+**3x Half-Marathon**
+
 **Biking**
 
 **Tennis**
@@ -26,6 +32,7 @@ author_profile: true
 
 ## Live Music
 
+## Record Collector
 
 ## Photography
 ![](/images/photo4.png)
